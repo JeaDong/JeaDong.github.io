@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>JeaDong</title>
+  
+  <subtitle>在成为大黑魔法师的路上</subtitle>
+  <link href="/JeaDong.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://JeaDong.github.io/JeaDong.github.io/"/>
+  <updated>2018-06-13T09:43:28.567Z</updated>
+  <id>https://JeaDong.github.io/JeaDong.github.io/</id>
+  
+  <author>
+    <name>JeaDong</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PyQt5笔记</title>
+    <link href="https://JeaDong.github.io/JeaDong.github.io/2018/06/13/PyQt5%E7%AC%94%E8%AE%B0/"/>
+    <id>https://JeaDong.github.io/JeaDong.github.io/2018/06/13/PyQt5笔记/</id>
+    <published>2018-06-13T09:11:52.000Z</published>
+    <updated>2018-06-13T09:43:28.567Z</updated>
+    
+    <summary type="html">
+    
+      &lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;import&lt;/span&gt; sys&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;from&lt;/span&gt; PyQt5.QtWidgets &lt;span class=&quot;keyword&quot;&gt;import&lt;/span&gt; QApplication, QWidget, QPushButton, QMessageBox, QLineEdit&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;from&lt;/span&gt; PyQt5.QtGui &lt;span class=&quot;keyword&quot;&gt;import&lt;/span&gt; QIcon&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;from&lt;/span&gt; random &lt;span class=&quot;keyword&quot;&gt;import&lt;/span&gt; randint&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;#上面的内容都是为了引入所需要的模块&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+      <category term="PyQt5" scheme="https://JeaDong.github.io/JeaDong.github.io/categories/PyQt5/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>想摆脱父母想变强大的黑魔法师</title>
+    <link href="https://JeaDong.github.io/JeaDong.github.io/2018/06/05/%E6%83%B3%E6%91%86%E8%84%B1%E7%88%B6%E6%AF%8D%E6%83%B3%E5%8F%98%E5%BC%BA%E5%A4%A7%E7%9A%84%E9%BB%91%E9%AD%94%E6%B3%95%E5%B8%88/"/>
+    <id>https://JeaDong.github.io/JeaDong.github.io/2018/06/05/想摆脱父母想变强大的黑魔法师/</id>
+    <published>2018-06-05T09:08:47.000Z</published>
+    <updated>2018-06-05T09:23:49.936Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;这几天好房子找的很心累，原本应该拿来写程序和看书的时间都没有了&lt;/strong&gt;&lt;br&gt;而且有点生气吧，因为真的很讨厌被打乱节奏。我明明可以保持每天6-7小时的学习时间的。&lt;br&gt;&lt;em&gt;然后我就有点想找人发牢骚了，本来是不打算那么快就告诉我妈的。&lt;br&gt;我妈和我说找不到就回家也行，可是我不听。我才回去，如果我回去了，就少了两个月，起码我现在很想体验真正的工作流程。&lt;br&gt;而且，我也想赚更多的钱。这样等我有钱了我就可以自己拿定更多的主意了，起码我如果自己过得好，我爸妈就不会太干预我的婚姻（至少我现在是这么想的）&lt;/em&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="生活" scheme="https://JeaDong.github.io/JeaDong.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="黑魔法师之路" scheme="https://JeaDong.github.io/JeaDong.github.io/tags/%E9%BB%91%E9%AD%94%E6%B3%95%E5%B8%88%E4%B9%8B%E8%B7%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第一次寻找实习的经历</title>
+    <link href="https://JeaDong.github.io/JeaDong.github.io/2018/06/01/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AF%BB%E6%89%BE%E5%AE%9E%E4%B9%A0%E7%9A%84%E7%BB%8F%E5%8E%86/"/>
+    <id>https://JeaDong.github.io/JeaDong.github.io/2018/06/01/第一次寻找实习的经历/</id>
+    <published>2018-06-01T12:32:48.000Z</published>
+    <updated>2018-06-10T13:12:19.912Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;前一天的忐忑&quot;&gt;&lt;a href=&quot;#前一天的忐忑&quot; class=&quot;headerlink&quot; title=&quot;前一天的忐忑&quot;&gt;&lt;/a&gt;前一天的忐忑&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;复习算法，数据结构，准备面试问题，复述项目&lt;/strong&gt;&lt;br&gt;&lt;em&gt;那天晚上，我把常见的数据结构都重新手写了一遍，以及各种常见的排序，查找算法实现了一遍。说实话，如果考算法我一点都不虚，几乎普通公司只会考到Leetcode上面的easy难度的题目，我很有自信可以完全胜任&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;技术面如同上面完成了，然后就是HR或许会问到一些可能会问到的问题，我结合自身经历练习着复述我应该讲给HR听的内容。当时我准备了可能会问缺点，我会说我可能会比较冲动，粗心。再结合实际经历说明我是如何解决的（比如粗心可以通过review和笔记提醒）,再比如准备我的优势：结合自身经历，比如我可以根据以前学的一些逻辑，直接举一反三完成了一个论坛所需要的功能，从而突显出我的学习能力&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+    
+    </summary>
+    
+      <category term="生活" scheme="https://JeaDong.github.io/JeaDong.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="黑魔法师之路" scheme="https://JeaDong.github.io/JeaDong.github.io/tags/%E9%BB%91%E9%AD%94%E6%B3%95%E5%B8%88%E4%B9%8B%E8%B7%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>二叉树实现，遍历</title>
+    <link href="https://JeaDong.github.io/JeaDong.github.io/2018/05/31/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%AE%9E%E7%8E%B0%EF%BC%8C%E9%81%8D%E5%8E%86/"/>
+    <id>https://JeaDong.github.io/JeaDong.github.io/2018/05/31/二叉树实现，遍历/</id>
+    <published>2018-05-31T14:39:26.000Z</published>
+    <updated>2018-06-01T12:28:45.309Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;二叉树数据结构的实现以及各种遍历&quot;&gt;&lt;a href=&quot;#二叉树数据结构的实现以及各种遍历&quot; class=&quot;headerlink&quot; title=&quot;二叉树数据结构的实现以及各种遍历&quot;&gt;&lt;/a&gt;二叉树数据结构的实现以及各种遍历&lt;/h2&gt;&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;class&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;Node&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;(object)&lt;/span&gt;:&lt;/span&gt;&lt;span class=&quot;comment&quot;&gt;#创建节点类型&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;__init__&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;(self,item)&lt;/span&gt;:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;        self.elem = item&lt;span class=&quot;comment&quot;&gt;#节点的值&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;        self.lchild = &lt;span class=&quot;keyword&quot;&gt;None&lt;/span&gt;&lt;span class=&quot;comment&quot;&gt;#左节点&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;        self.rchild = &lt;span class=&quot;keyword&quot;&gt;None&lt;/span&gt;&lt;span class=&quot;comment&quot;&gt;#右节点&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+      <category term="数据结构 算法" scheme="https://JeaDong.github.io/JeaDong.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="树" scheme="https://JeaDong.github.io/JeaDong.github.io/tags/%E6%A0%91/"/>
+    
+      <category term="算法" scheme="https://JeaDong.github.io/JeaDong.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>二分查找实现</title>
+    <link href="https://JeaDong.github.io/JeaDong.github.io/2018/05/31/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E5%AE%9E%E7%8E%B0/"/>
+    <id>https://JeaDong.github.io/JeaDong.github.io/2018/05/31/二分查找实现/</id>
+    <published>2018-05-31T14:35:48.000Z</published>
+    <updated>2018-06-01T12:27:51.378Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;二分查找&quot;&gt;&lt;a href=&quot;#二分查找&quot; class=&quot;headerlink&quot; title=&quot;二分查找&quot;&gt;&lt;/a&gt;二分查找&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;这其实是一个很重要的方法，速度很快，数据库中的索引也是用到这种方法&lt;/strong&gt;&lt;br&gt;&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;binary_search&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;(alist,item)&lt;/span&gt;:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;		&lt;span class=&quot;string&quot;&gt;&#39;&#39;&#39;递归版本&#39;&#39;&#39;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    n = len(alist)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;keyword&quot;&gt;if&lt;/span&gt; n &amp;gt; &lt;span class=&quot;number&quot;&gt;0&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;        mid = n//&lt;span class=&quot;number&quot;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;        &lt;span class=&quot;keyword&quot;&gt;if&lt;/span&gt; alist[mid] == item:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;            &lt;span class=&quot;keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;True&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;        &lt;span class=&quot;keyword&quot;&gt;elif&lt;/span&gt; item &amp;lt; alist[mid]:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;            &lt;span class=&quot;keyword&quot;&gt;return&lt;/span&gt; binary_search(alist[:mid],item)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;        &lt;span class=&quot;keyword&quot;&gt;else&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;            &lt;span class=&quot;keyword&quot;&gt;return&lt;/span&gt; binary_search(alist[mid+&lt;span class=&quot;number&quot;&gt;1&lt;/span&gt;:],item)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;False&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="算法" scheme="https://JeaDong.github.io/JeaDong.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="算法" scheme="https://JeaDong.github.io/JeaDong.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>常见排序算法的实现</title>
+    <link href="https://JeaDong.github.io/JeaDong.github.io/2018/05/31/%E5%B8%B8%E8%A7%81%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E7%9A%84%E5%AE%9E%E7%8E%B0/"/>
+    <id>https://JeaDong.github.io/JeaDong.github.io/2018/05/31/常见排序算法的实现/</id>
+    <published>2018-05-31T14:23:57.000Z</published>
+    <updated>2018-06-01T12:29:54.217Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;冒泡排序&quot;&gt;&lt;a href=&quot;#冒泡排序&quot; class=&quot;headerlink&quot; title=&quot;冒泡排序&quot;&gt;&lt;/a&gt;冒泡排序&lt;/h2&gt;&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;bubble_sort&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;(alist)&lt;/span&gt;:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;string&quot;&gt;&#39;&#39;&#39;冒泡排序&#39;&#39;&#39;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;keyword&quot;&gt;for&lt;/span&gt; j &lt;span class=&quot;keyword&quot;&gt;in&lt;/span&gt; range(len(alist) - &lt;span class=&quot;number&quot;&gt;1&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;        &lt;span class=&quot;keyword&quot;&gt;for&lt;/span&gt; i &lt;span class=&quot;keyword&quot;&gt;in&lt;/span&gt; range(len(alist) - &lt;span class=&quot;number&quot;&gt;1&lt;/span&gt; - j):&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;            &lt;span class=&quot;keyword&quot;&gt;if&lt;/span&gt; alist[i] &amp;gt; alist[i + &lt;span class=&quot;number&quot;&gt;1&lt;/span&gt;]:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;                alist[i], alist[i + &lt;span class=&quot;number&quot;&gt;1&lt;/span&gt;] = alist[i + &lt;span class=&quot;number&quot;&gt;1&lt;/span&gt;], alist[i]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;keyword&quot;&gt;return&lt;/span&gt; alist&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;#O(n)                        O(n^2)        稳定&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+      <category term="算法" scheme="https://JeaDong.github.io/JeaDong.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="算法" scheme="https://JeaDong.github.io/JeaDong.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>socket 客户端篇</title>
+    <link href="https://JeaDong.github.io/JeaDong.github.io/2018/05/25/socket/"/>
+    <id>https://JeaDong.github.io/JeaDong.github.io/2018/05/25/socket/</id>
+    <published>2018-05-25T08:58:49.000Z</published>
+    <updated>2018-05-25T12:57:15.080Z</updated>
+    
+    <summary type="html">
+    
+      &lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;import&lt;/span&gt; socket&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;code&gt;socket&lt;/code&gt;这个模块是重点，其中包含了我们需要的TCP/UDP连接方式,&lt;br&gt;以及ipv4/ipv6,简而言之, 就是发送 / 接收数据&lt;br&gt;&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;这是为了创建一个&lt;code&gt;socket&lt;/code&gt;对象(&lt;code&gt;socket&lt;/code&gt;是一个类)&lt;br&gt;&lt;code&gt;socket.AF_INET&lt;/code&gt;表示是 ipv4 协议&lt;br&gt;&lt;code&gt;socket.SOCK_STREAM&lt;/code&gt; 表示是 tcp 协议&lt;br&gt;这两个值都是默认值，所以也可以写成 s = socket.socket()&lt;br&gt;
+    
+    </summary>
+    
+      <category term="编程" scheme="https://JeaDong.github.io/JeaDong.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="socket" scheme="https://JeaDong.github.io/JeaDong.github.io/tags/socket/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>反转链表</title>
+    <link href="https://JeaDong.github.io/JeaDong.github.io/2018/05/23/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8/"/>
+    <id>https://JeaDong.github.io/JeaDong.github.io/2018/05/23/反转链表/</id>
+    <published>2018-05-23T14:41:10.000Z</published>
+    <updated>2018-05-25T07:53:08.953Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;反转链表&quot;&gt;&lt;a href=&quot;#反转链表&quot; class=&quot;headerlink&quot; title=&quot;反转链表&quot;&gt;&lt;/a&gt;反转链表&lt;/h1&gt;&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;class&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;Node&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;()&lt;/span&gt;:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;__init__&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;(self,val)&lt;/span&gt;:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;		self.val = val&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;		self.next = &lt;span class=&quot;keyword&quot;&gt;None&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;class&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;Link&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;()&lt;/span&gt;:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;__init__&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;(self,val)&lt;/span&gt;:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;		self.__name__ = Node(val)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+      <category term="数据结构" scheme="https://JeaDong.github.io/JeaDong.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    
+      <category term="算法" scheme="https://JeaDong.github.io/JeaDong.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="链表" scheme="https://JeaDong.github.io/JeaDong.github.io/tags/%E9%93%BE%E8%A1%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>刷 leetcode 需要哪些基础？</title>
+    <link href="https://JeaDong.github.io/JeaDong.github.io/2018/05/22/%E5%88%B7-leetcode-%E9%9C%80%E8%A6%81%E5%93%AA%E4%BA%9B%E5%9F%BA%E7%A1%80%EF%BC%9F/"/>
+    <id>https://JeaDong.github.io/JeaDong.github.io/2018/05/22/刷-leetcode-需要哪些基础？/</id>
+    <published>2018-05-22T05:42:39.000Z</published>
+    <updated>2018-05-25T07:23:07.521Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;说实话，只需要你懂基本语法和正常的逻辑&lt;/p&gt;
+&lt;p&gt;我记得我第一次leetcode的时候，连简单的sort都不会（那时候真觉得自己菜），但是没关系，直接去discuss区看一下别人是怎么解的，只要你看得懂，看多了再结合场景你也就可以写出来了，至少对于easy难度是这样。&lt;
+        
+      
+    
+    </summary>
+    
+      <category term="心得" scheme="https://JeaDong.github.io/JeaDong.github.io/categories/%E5%BF%83%E5%BE%97/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>TCP 为什么是三次握手，而不是两次或四次？</title>
+    <link href="https://JeaDong.github.io/JeaDong.github.io/2018/05/22/TCP-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E4%B8%A4%E6%AC%A1%E6%88%96%E5%9B%9B%E6%AC%A1%EF%BC%9F/"/>
+    <id>https://JeaDong.github.io/JeaDong.github.io/2018/05/22/TCP-为什么是三次握手，而不是两次或四次？/</id>
+    <published>2018-05-22T05:41:06.000Z</published>
+    <updated>2018-05-25T07:53:19.731Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;三次握手和四次握手是等价的，区别只是三次握手把ACK和SYN一并发送了，四次就是分开发送。&lt;/p&gt;
+&lt;p&gt;这个过程主要解决了三个问题：&lt;br&gt;1.确认接受方的存在&lt;br&gt;2.统一双方协商的协议（服务质量，最大接受等）&lt;br&gt;3.对运输实体（比如缓存，连接表中的项目）进行分配&lt;br&gt;
+    
+    </summary>
+    
+      <category term="TCP/IP" scheme="https://JeaDong.github.io/JeaDong.github.io/categories/TCP-IP/"/>
+    
+    
+      <category term="TCP" scheme="https://JeaDong.github.io/JeaDong.github.io/tags/TCP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>TCP/IP 协议到底在讲什么？</title>
+    <link href="https://JeaDong.github.io/JeaDong.github.io/2018/05/22/TCP-IP%E5%AD%98%E5%9C%A8%E7%9A%84%E5%8E%9F%E5%9B%A0/"/>
+    <id>https://JeaDong.github.io/JeaDong.github.io/2018/05/22/TCP-IP存在的原因/</id>
+    <published>2018-05-22T04:08:43.000Z</published>
+    <updated>2018-05-25T07:53:25.993Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;正好在上《计算机网络》这门课，试着回答，也整理下思路为了之后的面试假设没有IP协议，全世界的网络通信会变得很麻烦，比如要考虑路由选择，寻址方案，差错修复方法等N多问题，是不是很麻烦？就好像一个班里面有的同学说客家话，有的说粤语，有的说潮汕话，各说各的还这么好好聊天哇？你最多只能听懂一点。&lt;br&gt;ok普通话的作用就来了，大家都用普通话，是不是交流就easy了，比如我听我同学讲粤语，我最多听懂50%，内心OS：what the hellQAQ！ 这就像是没有IP协议时的情况，所以IP协议也就完成了这个统一（从此世界和平）&lt;br&gt;
+    
+    </summary>
+    
+      <category term="TCP/IP" scheme="https://JeaDong.github.io/JeaDong.github.io/categories/TCP-IP/"/>
+    
+    
+      <category term="TCP" scheme="https://JeaDong.github.io/JeaDong.github.io/tags/TCP/"/>
+    
+  </entry>
+  
+</feed>
