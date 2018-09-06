@@ -79,18 +79,18 @@
 
 
 
-<meta name="description" content="终于要开始啃这本极其讨厌的书了！！！没办法，毕竟很多大佬都推荐，要达到他们的水平，拿上他们那种工资，就应该好好啃。诸君，加油～">
+<meta name="description" content="今天重新看了SICP中对于迭代和递归的解释，以前用python写算法的时候，觉得迭代是一个比较简单的事情，难的事递归的抽象过程。   迭代12345678(define (factorial n)  (fact-iter 1 1 n))(define (fact-iter product counter max-count)  (if (&amp;gt; counter max-count)">
 <meta name="keywords" content="SICP">
 <meta property="og:type" content="article">
-<meta property="og:title" content="SICP第一章习题">
-<meta property="og:url" content="http://yoursite.com/2018/09/05/SICP第一章习题/index.html">
+<meta property="og:title" content="函数式编程递归和迭代的区别">
+<meta property="og:url" content="http://yoursite.com/2018/09/06/函数式编程递归和迭代的区别/index.html">
 <meta property="og:site_name" content="JeaDong">
-<meta property="og:description" content="终于要开始啃这本极其讨厌的书了！！！没办法，毕竟很多大佬都推荐，要达到他们的水平，拿上他们那种工资，就应该好好啃。诸君，加油～">
+<meta property="og:description" content="今天重新看了SICP中对于迭代和递归的解释，以前用python写算法的时候，觉得迭代是一个比较简单的事情，难的事递归的抽象过程。   迭代12345678(define (factorial n)  (fact-iter 1 1 n))(define (fact-iter product counter max-count)  (if (&amp;gt; counter max-count)">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-09-05T12:12:23.398Z">
+<meta property="og:updated_time" content="2018-09-06T07:35:05.575Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="SICP第一章习题">
-<meta name="twitter:description" content="终于要开始啃这本极其讨厌的书了！！！没办法，毕竟很多大佬都推荐，要达到他们的水平，拿上他们那种工资，就应该好好啃。诸君，加油～">
+<meta name="twitter:title" content="函数式编程递归和迭代的区别">
+<meta name="twitter:description" content="今天重新看了SICP中对于迭代和递归的解释，以前用python写算法的时候，觉得迭代是一个比较简单的事情，难的事递归的抽象过程。   迭代12345678(define (factorial n)  (fact-iter 1 1 n))(define (fact-iter product counter max-count)  (if (&amp;gt; counter max-count)">
 
 
 
@@ -120,13 +120,13 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/2018/09/05/SICP第一章习题/"/>
+  <link rel="canonical" href="http://yoursite.com/2018/09/06/函数式编程递归和迭代的区别/"/>
 
 
 
 
 
-  <title>SICP第一章习题 | JeaDong</title>
+  <title>函数式编程递归和迭代的区别 | JeaDong</title>
   
 
 
@@ -263,7 +263,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2018/09/05/SICP第一章习题/">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2018/09/06/函数式编程递归和迭代的区别/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="JeaDong">
@@ -280,7 +280,7 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">SICP第一章习题</h1>
+          <h1 class="post-title" itemprop="name headline">函数式编程递归和迭代的区别</h1>
         
 
         <div class="post-meta">
@@ -292,8 +292,8 @@
               
                 <span class="post-meta-item-text">发表于</span>
               
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-09-05T19:24:28+08:00">
-                2018-09-05
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-09-06T15:26:50+08:00">
+                2018-09-06
               </time>
             
 
@@ -330,12 +330,11 @@
       
 
       
-        <p><em>终于要开始啃这本极其讨厌的书了！！！</em><br><em>没办法，毕竟很多大佬都推荐，要达到他们的水平，拿上他们那种工资，就应该好好啃。诸君，加油～</em><br><a id="more"></a></p>
-<h4 id="1-1"><a href="#1-1" class="headerlink" title="1.1"></a>1.1</h4><p>没啥难度，直接贴答案<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br></pre></td><td class="code"><pre><span class="line">1 ]=&gt; (define a 3)</span><br><span class="line"></span><br><span class="line">;Value: a</span><br><span class="line"></span><br><span class="line">1 ]=&gt; (define b (+ a 1))</span><br><span class="line"></span><br><span class="line">;Value: b</span><br><span class="line"></span><br><span class="line">1 ]=&gt; b</span><br><span class="line"></span><br><span class="line">;Value: 4</span><br><span class="line"></span><br><span class="line">1 ]=&gt; (+ a b (* a b))</span><br><span class="line"></span><br><span class="line">;Value: 19</span><br><span class="line"></span><br><span class="line">1 ]=&gt; (= a b)</span><br><span class="line"></span><br><span class="line">;Value: #f</span><br><span class="line"></span><br><span class="line">1 ]=&gt; ( if (and (&gt; b a) (&lt; b (* a b))) b a)</span><br><span class="line"></span><br><span class="line">;Value: 4</span><br><span class="line"></span><br><span class="line">1 ]=&gt; a</span><br><span class="line"></span><br><span class="line">;Value: 3</span><br><span class="line"></span><br><span class="line">1 ]=&gt; ( cond ((= a 4) a) ((= b 4) (+ 6 7 a)) (else 25))</span><br><span class="line"></span><br><span class="line">;Value: 16</span><br><span class="line"></span><br><span class="line">1 ]=&gt; (+ 2 (if (&gt; b a) b a))</span><br><span class="line"></span><br><span class="line">;Value: 6</span><br><span class="line"></span><br><span class="line">1 ]=&gt; (* (cond ((&gt; a b) a) ((&gt; b a) b) (else -1))</span><br><span class="line">(+ a 1))</span><br><span class="line"></span><br><span class="line">;Value: 16</span><br><span class="line"></span><br><span class="line">1 ]=&gt; (/ 4 5)</span><br><span class="line"></span><br><span class="line">;Value: 4/5</span><br></pre></td></tr></table></figure></p>
-<h4 id="1-2"><a href="#1-2" class="headerlink" title="1.2"></a>1.2</h4><p>没啥好说，拆分！！！<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">1 ]=&gt; (/ (+ 5 4 (- 2 (- 3 (+ 6 (/ 4 5))))) (* 3 (- 6 2) (- 2 7)))</span><br><span class="line"></span><br><span class="line">;Value: -37/150</span><br></pre></td></tr></table></figure></p>
-<h4 id="1-3"><a href="#1-3" class="headerlink" title="1.3"></a>1.3</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">1 ]=&gt; (define (sum a b c) (cond ((and (&lt;= a b ) (&lt;= a c )) (+ b c )) ((and (&lt;= b a) (&lt;= b c)) (+ a c)) (( and (&lt;= c a) (&lt;= c b)) (+ a b))))</span><br></pre></td></tr></table></figure>
-<h4 id="1-4"><a href="#1-4" class="headerlink" title="1.4"></a>1.4</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">if b &gt; 0 then (+ a b)</span><br><span class="line">else (- a b)</span><br></pre></td></tr></table></figure>
-<h4 id="1-5"><a href="#1-5" class="headerlink" title="1.5"></a>1.5</h4><p>完全没有看懂题意在说啥～～～<br>后续好好理解一下</p>
+        <p>今天重新看了SICP中对于迭代和递归的解释，以前用python写算法的时候，觉得迭代是一个比较简单的事情，难的事递归的抽象过程。  </p>
+<h4 id="迭代"><a href="#迭代" class="headerlink" title="迭代"></a>迭代</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">(define (factorial n)</span><br><span class="line">  (fact-iter 1 1 n))</span><br><span class="line">(define (fact-iter product counter max-count)</span><br><span class="line">  (if (&gt; counter max-count)</span><br><span class="line">      product</span><br><span class="line">      (fact-iter (* counter product)</span><br><span class="line">(+ counter 1)</span><br><span class="line">            max-count)))</span><br></pre></td></tr></table></figure>
+<p>这是一个简单的阶乘迭代，我们只需要去记住每一次的计算结果，计数器，以及最大的max—count这三个数字就可以了，换句话说就是我们的解释器在我们允许factorial的时候只需要去记住这三个值就可以了，最后返回结果product。  </p>
+<h4 id="递归"><a href="#递归" class="headerlink" title="递归"></a>递归</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">(define (factorial n)</span><br><span class="line">  (if (= n 1)</span><br><span class="line">      1</span><br><span class="line">      (* n (factorial (- n 1)))))</span><br></pre></td></tr></table></figure>
+<p>写起来优雅但是因为抽象后难以理解，它的整个运算过程会是先展开所有的过程，然后不断收缩来得到计算结果。</p>
 
       
     </div>
@@ -366,8 +365,8 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/2018/09/04/我知道我的自负/" rel="next" title="我知道我的自负">
-                <i class="fa fa-chevron-left"></i> 我知道我的自负
+              <a href="/2018/09/05/SICP第一章习题/" rel="next" title="SICP第一章习题">
+                <i class="fa fa-chevron-left"></i> SICP第一章习题
               </a>
             
           </div>
@@ -375,10 +374,6 @@
           <span class="post-nav-divider"></span>
 
           <div class="post-nav-prev post-nav-item">
-            
-              <a href="/2018/09/06/函数式编程递归和迭代的区别/" rel="prev" title="函数式编程递归和迭代的区别">
-                函数式编程递归和迭代的区别 <i class="fa fa-chevron-right"></i>
-              </a>
             
           </div>
         </div>
@@ -505,7 +500,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-4"><a class="nav-link" href="#1-1"><span class="nav-number">1.</span> <span class="nav-text">1.1</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#1-2"><span class="nav-number">2.</span> <span class="nav-text">1.2</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#1-3"><span class="nav-number">3.</span> <span class="nav-text">1.3</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#1-4"><span class="nav-number">4.</span> <span class="nav-text">1.4</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#1-5"><span class="nav-number">5.</span> <span class="nav-text">1.5</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-4"><a class="nav-link" href="#迭代"><span class="nav-number">1.</span> <span class="nav-text">迭代</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#递归"><span class="nav-number">2.</span> <span class="nav-text">递归</span></a></li></ol></div>
             
 
           </div>
